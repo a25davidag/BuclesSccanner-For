@@ -42,5 +42,11 @@ public class Main {
 
         // Ejercicio 10
         System.out.println("Ingresa un numero");
+        int n5 = sc.nextInt();
+        for (int j = 1; j <= n5; j++) {
+            if (j % 2 != 0) {
+                System.out.println(j);
+            }
+        }
     }
 }
