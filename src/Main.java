@@ -39,5 +39,8 @@ public class Main {
             suma = suma + h;
         }
         System.out.println("La suma " + n4 + " es: " + suma);
+
+        // Ejercicio 10
+        System.out.println("Ingresa un numero");
     }
 }
